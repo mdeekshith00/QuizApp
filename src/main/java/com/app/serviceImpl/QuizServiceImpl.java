@@ -8,11 +8,11 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.app.dto.QuestionDto;
 import com.app.exception.DeatilsNotFound;
 import com.app.model.Question;
 import com.app.model.Quiz;
 import com.app.model.Response;
-import com.app.modeldto.QuestionDto;
 import com.app.repositary.QuestionRepositary;
 import com.app.repositary.QuizRepositary;
 import com.app.service.QuizService;

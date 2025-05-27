@@ -1,4 +1,4 @@
-package com.app.modeldto;
+package com.app.dto;
 
 public class QuestionDto {
 	

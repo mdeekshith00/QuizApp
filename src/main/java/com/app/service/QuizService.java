@@ -1,8 +1,9 @@
 package com.app.service;
 
 import java.util.List;
+
+import com.app.dto.QuestionDto;
 import com.app.model.Question;
-import com.app.modeldto.QuestionDto;
 
 
 public interface QuizService {
